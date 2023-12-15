@@ -5,7 +5,7 @@
 
 N0550 is a case for [NEC-50](https://github.com/calvin-mcd/NEC-50).
 
-![N0550 case](images/Case%20-%20M0110%20-%201.png)
+![N0550 case](images/Case%20-%20n0550%20-%201.png)
 
 ### Specs
 
