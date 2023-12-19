@@ -13,7 +13,7 @@ following fixes has been made to the case:
 - Expanded the tolerances for the top so the plate can easily fit
 - Expanded the USB cutout so a cable can fit through
 - Made space for the controller on the PCB in the bottom case
-- Changed the top so the case will only need M3 screws, no heat inserts required.
+- Changed the top so the case will only need M3 screws, no heat inserts required (heat inserts still required for the plate mounting points).
 
 ![N0550 case](images/Case%20-%20n0550%20-%201.png)
 
